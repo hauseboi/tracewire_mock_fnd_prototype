@@ -51,38 +51,42 @@ const T = {
 // --- Design tokens ---
 const C = {
   // Backgrounds — soft charcoal not pure black
-  bg:         "#0c0d0f",
-  bgCard:     "#13151a",
-  bgRaised:   "#1a1d24",
-  bgHover:    "#1f2330",
-  // Borders
-  border:     "#252830",
-  borderSoft: "#2e3240",
-  // Text
-  white:      "#f0f2f8",
-  offWhite:   "#c8cdd8",
-  muted:      "#6b7280",
-  dimmed:     "#3d4250",
-  // Accents
-  red:        "#e85d5d",
-  redGlow:    "#ff4444",
-  redSoft:    "#ff6b6b",
-  redDim:     "#5c1f1f",
-  orange:     "#f4845f",
-  amber:      "#f5a623",
-  green:      "#4ade80",
-  teal:       "#2dd4bf",
-  blue:       "#60a5fa",
-  purple:     "#a78bfa",
+// --- Design tokens — Dark Slate + Cyan + Coral ---
+  // Backgrounds — cool blue-tinted dark slate
+  bg:         "#0d1117",
+  bgCard:     "#161b22",
+  bgRaised:   "#1c2230",
+  bgHover:    "#212c3d",
+  // Borders — subtle blue tint
+  border:     "#243044",
+  borderSoft: "#2e3f58",
+  // Text — cooler whites
+  white:      "#e8edf5",
+  offWhite:   "#b8c4d4",
+  muted:      "#5d7290",
+  dimmed:     "#344058",
+  // Primary accent — coral
+  red:        "#ff6b6b",
+  redGlow:    "#ff5252",
+  redSoft:    "#ff8a80",
+  redDim:     "#3d1a1a",
+  // Electric cyan — SaaS signature
+  teal:       "#00d4c8",
+  // Supporting palette
+  orange:     "#ff8c5a",
+  amber:      "#ffb347",
+  green:      "#3ddc97",
+  blue:       "#4da6ff",
+  purple:     "#9d7afa",
   // Fraud type palette
-  phantom:    "#e85d5d",
-  duplicate:  "#f4845f",
-  ring:       "#a78bfa",
-  anomalous:  "#f5a623",
-  overInvoice:"#fb923c",
+  phantom:    "#ff6b6b",
+  duplicate:  "#ff8c5a",
+  ring:       "#9d7afa",
+  anomalous:  "#ffb347",
+  overInvoice:"#ff6eb4",
   carousel:   "#c084fc",
-  dilution:   "#60a5fa",
-  clean:      "#4ade80",
+  dilution:   "#4da6ff",
+  clean:      "#3ddc97",
 };
 
 const FRAUD_COLORS = {
