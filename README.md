@@ -164,8 +164,15 @@ Frontend wiring (replacing mock JS data with real `fetch()` calls) is the curren
 
 ---
 
-## Creator
+## Team Lead
 
 **KJ** — [khrithikjupalli@gmail.com](mailto:khrithikjupalli@gmail.com)
+
+---
+## Team Members
+
+**Varun Prakash** — [@gmail.com](mailto:varunpk2005@gmail.com)
+---
+**Sri Ram Kumar V** — [sriramkumarv6@gmail.com](mailto:sriramkumarv6@gmail.com)
 
 *TraceWire · SCF Fraud Detection Platform · 2026*
